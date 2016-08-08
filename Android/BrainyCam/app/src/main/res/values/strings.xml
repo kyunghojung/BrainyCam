@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BrainyCam</string>
+    <string name="scan">Scan</string>
+    <string name="connect">Connect</string>
+    <string name="popup_title">Quit Brainy House?</string>
+    <string name="popup_message">Do you want to quit this Application?</string>
+    <string name="popup_yes">YES</string>
+    <string name="popup_no">NO</string>
+    <string name="ble_not_supported">Bluetooth Low Energy not supported</string>
+    <string name="bluetooth_not_supported">Bluetooth is not available on this device.</string>
+    <string name="action_settings">Setting</string>
+</resources>
